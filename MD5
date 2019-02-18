@@ -1,0 +1,17 @@
+ebca5234a00335b83f1e40129f2bf6b8 *DESCRIPTION
+56d72f73b7bd7c8561145afdbd88a0fa *LICENSE
+c2f37bae45313631589fa84a170723b3 *NAMESPACE
+2b2b516604313d8f35ed9ca9284d2dcf *R/imageviewer.R
+f5a244cf8b6eb83b7dc7a9910b8b1d7a *README.md
+631bce543ac105ef28029fe6e72d104f *inst/htmlwidgets/dev.html
+d26e0dc01df11d2cf54bf35df8d04a99 *inst/htmlwidgets/imageviewer.js
+f16f25acf4ec4bbd522945436f36bfd2 *inst/htmlwidgets/imageviewer.yaml
+00ac35990f33fad3241b98d0914f8fd2 *inst/htmlwidgets/lib/d3.v4.min.js
+473c4e74c4807c609d50ee63daceac9c *inst/htmlwidgets/lib/imagefilters.js
+3911084d62c98230ededbfd4535d1323 *inst/htmlwidgets/lib/imageviewer.css
+a7998756c6ce6d6c658f61b95a3f8acc *inst/htmlwidgets/lib/imageviewer.scss
+c4a88ec0cb998929a670c0c58d7dc526 *inst/htmlwidgets/lib/jquery-ui.css
+0a497d4661df7b82feee14332ce0bdaf *inst/htmlwidgets/lib/jquery-ui.min.js
+c9f5aeeca3ad37bf2aa006139b935f0a *inst/htmlwidgets/lib/jquery.min.js
+5deee7aa734f5aa4b3347ca7335ea468 *man/imageviewer-shiny.Rd
+69e92d001a8e5876265ee2e83a8bd4e7 *man/imageviewer.Rd
